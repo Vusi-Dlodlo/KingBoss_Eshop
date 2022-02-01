@@ -1,4 +1,4 @@
-# KingBoss_Eshop
+# KingBoss Eshop
 E commerce website
 
 For our Work intergrated learning project,
