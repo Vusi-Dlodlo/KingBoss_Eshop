@@ -1,0 +1,9 @@
+INSERT INTO `tbl_item` (`ItemID`, `Description`, `CostPrice`, `Quantity`, `SellPrice`, `product_image`, `category`) VALUES
+(1, 'Alien Ware Buckethat', '130.00', '6', '129.99', './Images/Products/Buckethats/B1.jpg', 'Buckethats'),
+(1, 'Fire Buckethat', '130.00', '3', '129.99', './Images/Products/Buckethats/B2.jpg', 'Buckethats'),
+(1, 'Abstract Buckethat', '130.00', '5', '129.99', './Images/Products/Buckethats/B3.jpg', 'Buckethats'),
+(1, 'Smiley Buckethat', '130.00', '2', '129.99', './Images/Products/Buckethats/B4.jpg', 'Buckethats'),
+(1, 'Smiley Buckethat', '130.00', '7', '129.99', './Images/Products/Buckethats/B5.jpg', 'Buckethats'),
+(1, 'O Pirates Buckethat', '130.00', '2', '129.99', './Images/Products/Buckethats/B6.jpg', 'Buckethats'),
+(1, 'Nail and Steel styled Buckethat', '130.00', '6', '129.99', './Images/Products/Buckethats/B7.jpg', 'Buckethats'),
+(1, 'Northface Buckethat', '130.00', '4', '129.99', './Images/Products/Buckethats/B8.jpg', 'Buckethats'),

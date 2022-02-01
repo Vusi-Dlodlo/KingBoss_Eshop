@@ -1,0 +1,9 @@
+INSERT INTO `tbl_item` (`ItemID`, `Description`, `CostPrice`, `Quantity`, `SellPrice`, `product_image`, `category`) VALUES
+(1, 'Migos Culture Black', '80.00', '8', '79.99', './Images/Products/T-shirt/T1.jpg', 'T-shirt'),
+(1, 'Octopus Dark Yellow Black', '80.00', '8', '79.99', './Images/Products/T-shirt/T2.jpg', 'T-shirt'),
+(1, 'Black Long Sleeve T-shirt', '80.00', '8', '79.99', './Images/Products/T-shirt/T3.jpg', 'T-shirt'),
+(1, 'Multicolor Dashiki', '80.00', '8', '79.99', './Images/Products/T-shirt/T4.jpg', 'T-shirt'),
+(1, 'Cross Grey', '80.00', '8', '79.99', './Images/Products/T-shirt/T5.jpg', 'T-shirt'),
+(1, 'Guess Grey', '80.00', '8', '79.99', './Images/Products/T-shirt/T6.jpg', 'T-shirt'),
+(1, 'Unlock Code Black', '80.00', '8', '79.99', './Images/Products/T-shirt/T7.jpg', 'T-shirt'),
+(1, 'Cool Graphic Black', '80.00', '8', '79.99', './Images/Products/T-shirt/T8.jpg', 'T-shirt'),
